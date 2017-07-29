@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 heyo nigga joely
+=======
+heyo nigga hrell
+>>>>>>> cc76dc9eb977ce53a4333d7053a3d24b7e7c2b9a
